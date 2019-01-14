@@ -1,6 +1,6 @@
 # [Design Resources](http://designresources.party)
 
-👋 Hi, I’m [@skullface](http://twitter.com/skullface)!
+Thanks to [@skullface](http://twitter.com/skullface) for starting this project. 
 
 ✨ I used to keep this info as a Google Doc to share with my most trusted coworkers and friends, but I thought the info would be better served in the open.
 
@@ -182,7 +182,7 @@
 #### Directories and marketplaces
 * [Google Fonts](https://fonts.google.com/) — hundreds of free webfonts hosted via Google or self-hosted, downloadable via [GitHub repo](https://github.com/google/fonts) with individual licenses
 * [MyFonts](http://myfonts.com) — thousands of fonts from all kinds of foundries, includes some trial fonts & free families. (good for searching and testing, but it’s better to buy through the foundries themselves!)
-* [TypeKit](https://typekit.com/) — included with Adobe CC subscription, some fonts & families are only available for desktop _or_ web use. larger selection available for individual purchase through Typekit Marketplace
+* [Adobe TypeKit](https://typekit.com/) — included with Adobe CC subscription, some fonts & families are only available for desktop _or_ web use. larger selection available for individual purchase through Typekit Marketplace
 * [Type Network](http://www.typenetwork.com/) — incredibly high-quality fonts by select independent foundries
 * [YouWorkForThem](https://www.youworkforthem.com/fonts/) — thousands of fonts in the “original creative marketplace”
 
